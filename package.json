@@ -26,7 +26,7 @@
     "passport-http": "^0.3.0",
     "passport-local": "^1.0.0",
     "serve-favicon": "^2.0.1",
-    "stopwords": "0.0.5",
+    "stopwords": "0.0.9",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
@@ -93,7 +93,7 @@
     "should": "^11.1.1",
     "sinon": "^1.12.2",
     "sinon-chai": "^2.6.0",
-    "stopwords": "0.0.5",
+    "stopwords": "0.0.9",
     "supertest": "^2.0.1",
     "wiredep": "^2.2.2",
     "yargs": "^3.15.0"
